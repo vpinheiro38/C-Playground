@@ -7,8 +7,8 @@ int main() {
     unsigned short int sen[4][4], digCert = 0, digDes = 0;
     char gsen[4];
 
-	printf("\n\t\t\t  BEM VINDO AO JOGO DA SENHA!\n\n");
-	printf("Para iniciar, o jogador 1 deve digitar uma senha:\n");
+    printf("\n\t\t\t  BEM VINDO AO JOGO DA SENHA!\n\n");
+    printf("Para iniciar, o jogador 1 deve digitar uma senha:\n");
     printf("- A senha deve possuir 4 algarismos de 1 a 6 -\n");
     printf("- Para apagar um algarismo, digite 'e' -\n\n");
     printf("Senha correta: ");
